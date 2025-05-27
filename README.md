@@ -1,4 +1,5 @@
 🔥 LPG Management System
+
 A Python + MySQL desktop application to manage LPG (Liquefied Petroleum Gas) services. It provides an easy-to-use interface for users to register, request connections, and book cylinders, while allowing the admin to manage users, track bookings, generate reports, and modify system data.
 
 ✨ Key Features
